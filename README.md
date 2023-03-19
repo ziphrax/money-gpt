@@ -12,3 +12,9 @@ This is a sample application that demonstrates how to build a full-stack applica
 6. redis - Redis In-Memory Data Store
 7. kafka - Kafka Message Broker
 8. zoo - Zookeeper Service Discovery
+
+## Instructions
+
+1. Clone the repository
+2. Create a .env file
+3. Run `docker-compose up -d --build`
