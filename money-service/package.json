@@ -24,10 +24,11 @@
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
     "chatgpt": "^5.1.2",
+    "dotenv": "^16.0.3",
     "isomorphic-fetch": "^3.0.0",
+    "nest-keycloak-connect": "^1.9.1",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^7.2.0",
-    "dotenv": "^16.0.3"
+    "rxjs": "^7.2.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
